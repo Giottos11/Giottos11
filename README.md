@@ -24,7 +24,7 @@
 ## 🛠️ Technologies I'm Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,python,vscode,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,python,vscode&theme=dark"/>
 </p>
 
 

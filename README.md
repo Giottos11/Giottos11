@@ -1,12 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Jose Juan
-
-### Student • Cybersecurity Enthusiast • AI Learner
-
-*"There is always something new to learn."*
-
-</div>
+<p align="center">
+<img src="assets/JOSE JUAN.png" alt="Captura" width="900">
+</p>
 
 ---
 

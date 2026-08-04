@@ -1,8 +1,6 @@
-<div align="center">
 
-<p align="center">
+
 <img src="assets/JOSE JUAN.png" alt="Captura" width="900">
-</p>
 
 ---
 

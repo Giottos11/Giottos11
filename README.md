@@ -14,11 +14,23 @@
 - ⚙️ Technology, engineering and problem solving enthusiast
 
 ---
+
+## 🛠️ Technologies I'm Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,python,vscode&theme=dark"/>
+</p>
+
+
+---
+<div align="center">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Giottos11&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Giottos11&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Giottos11&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
 ---
 
 ## 🎯 Goals

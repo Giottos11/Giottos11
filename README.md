@@ -4,18 +4,18 @@
 
 ---
   
-# 🚀 About Me
+# 🚀 Sobre mí
 
-- 🎓 High school student from Spain 🇪🇸
-- 🔐 Interested in **Cybersecurity**
-- 🤖 Passionate about **Artificial Intelligence**
-- 💻 Currently learning **Git, GitHub and Python**
-- 📚 I enjoy understanding how things work
-- ⚙️ Technology, engineering and problem solving enthusiast
+- 🎓 Estudiante de secundaria
+- 🔐 Interesado en Ciberseguridad
+- 🤖 Apasionado por la Inteligencia Artificial
+- 💻 Actualmente aprendiendo Git, GitHub y Python
+- 📚 Me gusta entender cómo funcionan las cosas
+- ⚙️ Entusiasta de la tecnología, la ingeniería y la resolución de problemas
 
 ---
   
-# 🛠️ Technologies I'm Learning
+# 🛠️ Tecnologías que estoy aprendiendo
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,python,vscode&theme=dark"/>
@@ -24,7 +24,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 Estadísticas de GitHub
 <div align="center">
   
 ![](https://github-readme-stats.shion.dev/api?username=Giottos11&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -35,32 +35,18 @@
 
 ---
 
-# 🎯 Goals
+# 🎯 Objetivos
 
-- Learn Git & GitHub
-- Improve my Python skills
-- Learn Linux
-- Start Ethical Hacking
-- Build useful projects
-- Contribute to Open Source
-
----
-
-# 📖 Currently Reading
-
-- 📘 *Quantum Physics for Everyone*
-- ⚔️ *Attack on Titan: Before the Fall*
-
----
-
-# ⚡ Fun Fact
-
-I love learning about science, mathematics and technology, even when they are far beyond what I'm studying at school.
+- Aprender Git y GitHub
+- Mejorar mis conocimientos de Python
+- Aprender Linux
+- Empezar con Hacking Ético
+- Crear proyectos útiles
 
 ---
 
 <div align="center">
 
-## Thanks for visiting! ⭐
+## ¡Gracias por visitar mi perfil! ⭐
 
 </div>
